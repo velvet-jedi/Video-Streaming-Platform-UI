@@ -23,21 +23,17 @@ This is needed to bypass CORS restrictions when accessing APIs from different or
 -   Youtube search suggestions API
 -   Nested comments using Recursion in comments component.
 -   Debounced search bar
-    1 Scalability
+-   calable
 
     -   Infinite live chat (performant) mimicing polling
-        3 Video streaming platform
-        4 - Lazy loading
-        5 Responsive
-        6 Infinite live chat
-        7 Conditional rendering
-        7 Caching using Redux store
-        9 Quick development experience with TailWindCSS shorthand specification and no need to switch files, made in 3 days
-        10 66ms fast loading time
-        11 Optimize Redux Store Usage efficient subscription to slices
-
-11 React router DOM library for routing
-12 Config driven UI
+    -   Lazy loading
+    -   Responsive
+    -   Infinite live chat
+    -   Conditional rendering
+    -   Caching using Redux store
+    -   Quick development experience with TailWindCSS shorthand specification and no need to switch files, made in 3 days
+    -   66ms fast loading time
+    -   Optimize Redux Store Usage efficient subscription to slices
 
 -   setTimeout, clearTimeout
 -   Cleanup
