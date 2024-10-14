@@ -12,7 +12,6 @@ This is needed to bypass CORS restrictions when accessing APIs from different or
 -   Redux Toolkit
     -   dispatch, selector, action, reducer
     -   useSelector hook
-    -   cache memoization
 -   React-Router
     -   Outlet for dynamic child component rendering
     -   React router DOM library for routing
