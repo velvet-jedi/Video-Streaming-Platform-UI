@@ -7,6 +7,9 @@ To use this app, please install and enable the **CORS Everywhere** extension:
 
 This is needed to bypass CORS restrictions when accessing APIs from different origins.
 
+(ttps://video-streaming-platform-ui.vercel.app/0)[View Live]
+
+
 # Ingredients
 
 -   Redux Toolkit
